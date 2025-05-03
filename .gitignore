@@ -1,0 +1,12 @@
+# Exclude raw and sensitive data
+data/
+llama_output/
+
+# Exclude any CSVs you don’t want to upload
+*.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
