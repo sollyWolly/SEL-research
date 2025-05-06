@@ -1,5 +1,7 @@
 # SEL-Detection-NLP
 
+[![Symposium Poster](./data/symposium_poster.png)](./data/symposium_poster.png)
+
 This repository contains the code and research pipeline for my undergraduate research at the SHIFT Research Institute at UC Berkeley. The project explores how Natural Language Processing (NLP) and AI-based methods can be used to identify evidence of Social and Emotional Learning (SEL) within educator conversations.
 
 ## About the Project
